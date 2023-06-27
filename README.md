@@ -26,6 +26,7 @@
 
 1. библиотеки (пакеты)
 2. props, emits (для ui-kit)
-3. hooks
-4. helpers
-5. types
+3. components
+4. hooks
+5. helpers
+6. types
