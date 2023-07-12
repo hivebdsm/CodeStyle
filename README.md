@@ -28,5 +28,6 @@
 2. props, emits (для ui-kit)
 3. components
 4. hooks
-5. helpers
-6. types
+5. store
+6. helpers
+7. types
